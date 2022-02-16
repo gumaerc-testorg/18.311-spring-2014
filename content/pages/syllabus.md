@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: fd148ecf-8609-6cd3-acdd-9897a129e304
 ---
@@ -17,7 +19,7 @@ The prerequisites for the course are [_18.02 Multivariable Calculus_](/courses/1
 Course Description
 ------------------
 
-_18.311 Principles of Continuum Applied Mathematics_ covers fundamental concepts in continuous applied mathematics, including applications from traffic flow, fluids, elasticity, granular flows, etc. The class also covers continuum limit; conservation laws, quasi-equilibrium; kinematic waves; characteristics, simple waves, shocks; diffusion (linear and nonlinear); numerical solution of wave equations; finite differences, consistency, stability; discrete and fast Fourier transforms; spectral methods; transforms and series (Fourier, Laplace). Additional topics may include sonic booms, Mach cone, caustics, lattices, dispersion, and group velocity. Uses MATLAB® computing environment.
+_18.311 Principles of Continuum Applied Mathematics_ covers fundamental concepts in continuous applied mathematics, including applications from traffic flow, fluids, elasticity, granular flows, etc. The class also covers continuum limit; conservation laws, quasi-equilibrium; kinematic waves; characteristics, simple waves, shocks; diffusion (linear and nonlinear); numerical solution of wave equations; finite differences, consistency, stability; discrete and fast Fourier transforms; spectral methods; transforms and series (Fourier, Laplace). Additional topics may include sonic booms, Mach cone, caustics, lattices, dispersion, and group velocity. Uses MATLAB{{< sup "®" >}} computing environment.
 
 Textbooks
 ---------
