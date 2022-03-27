@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3c56a580-4110-bab1-8eee-9f3fa91becab
 resourcetype: Document
 title: Principles of Applied Mathematics, Problem Set 2
 uid: 4e2bdbbc-47e9-dc29-1942-331219b1ef88

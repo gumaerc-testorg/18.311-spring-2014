@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f647c6dc-2054-d43f-a74c-bc3cc8cb949b
 resourcetype: Document
 title: Various lecture notes for 18311.
 uid: 388f429f-3e81-cfba-f4ba-272f343dc70b

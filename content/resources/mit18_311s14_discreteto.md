@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f647c6dc-2054-d43f-a74c-bc3cc8cb949b
 resourcetype: Document
 title: Discrete to Continuum Modeling.
 uid: 6c889624-a9bc-707f-fa54-4fb4b5fd41a5

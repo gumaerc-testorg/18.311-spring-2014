@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
+parent_uid: b0f4af16-e53b-c6ca-14ef-05be9e6c8817
 resourcetype: Document
 title: Principles of Applied Mathematics, Lecture Summary 15
 uid: 71006437-bf75-0ed2-cc27-b983eacc71db

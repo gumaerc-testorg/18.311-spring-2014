@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f647c6dc-2054-d43f-a74c-bc3cc8cb949b
 resourcetype: Document
 title: Stability of Numerical Schemes for PDE's.
 uid: 8940d66d-522b-15a2-edfe-b08804cf6a9b

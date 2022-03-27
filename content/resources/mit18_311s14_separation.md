@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f647c6dc-2054-d43f-a74c-bc3cc8cb949b
 resourcetype: Document
 title: 18.311 ExPD (Exercises in Partial Differentiation and Linear PDE).
 uid: ea2b7819-6b89-9422-a81f-862b72968012

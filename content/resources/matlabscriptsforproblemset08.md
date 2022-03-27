@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3c56a580-4110-bab1-8eee-9f3fa91becab
 resourcetype: Other
 title: MatLabScriptsForProblemSet08.zip
 uid: 4c72148e-7b4a-aafb-cb62-41bdcd16da94

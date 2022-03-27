@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f647c6dc-2054-d43f-a74c-bc3cc8cb949b
 resourcetype: Document
 title: 'Simplest Car Following Traffic Flow Model. '
 uid: 823b8f2a-65d6-3942-ed81-4b0fd1de908c

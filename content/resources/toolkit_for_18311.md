@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: afb43aa3-4ebc-2a9e-3476-21c56cb78ebe
 resourcetype: Other
 title: Toolkit_for_18311.zip
 uid: 187b86d5-b71f-74e9-0e61-b850eb17973e
