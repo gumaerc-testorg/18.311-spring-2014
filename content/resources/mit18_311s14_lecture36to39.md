@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-311-principles-of-applied-mathematics-spring-2014/5085745983cce637d47c097b32441970_MIT18_311S14_Lecture36to39.pdf
+file: /courses/18-311-principles-of-applied-mathematics-spring-2014/5085745983cce637d47c097b32441970_MIT18_311S14_Lecture36to39.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
