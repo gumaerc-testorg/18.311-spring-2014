@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a downloadable set of MATLAB scripts used for the
+  course.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -11,7 +13,7 @@ MATLAB{{< sup "®" >}} is used extensively in this course. The scripts will be p
 
 The scripts are user friendly and come with the MATLAB help feature enabled: Once in MATLAB, the commands "help 311TC" and "help 18311" display a list of the available scripts, with a short description of what they do. Individual help is also available for each script. Note also that there is plenty more information buried in the comments inside each script.
 
-**[Download MATLAB Toolkit (ZIP)]({{< baseurl >}}/resources/toolkit_for_18311)**
+**{{% resource_link 187b86d5-b71f-74e9-0e61-b850eb17973e "Download MATLAB Toolkit (ZIP)" %}}**
 
 After you expand the download, you will get a folder with:
 

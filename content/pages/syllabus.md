@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, textbooks, problem sets, grading, collaboration,
+  additional policies, and lecture topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -24,7 +27,7 @@ _18.311 Principles of Continuum Applied Mathematics_ covers fundamental concepts
 Textbooks
 ---------
 
-The material in the course is spread out over several books, listed here. Class notes for some topics are also available in the [Lecture Notes]({{< baseurl >}}/pages/lecture-notes).
+The material in the course is spread out over several books, listed here. Class notes for some topics are also available in the {{% resource_link f647c6dc-2054-d43f-a74c-bc3cc8cb949b "Lecture Notes" %}}.
 
 *   Haberman, Richard. _Mathematical Models: Mechanical Vibrations, Population Dynamics, and Traffic Flow_. SIAM, 1998. ISBN: 9780898714081. \[Preview with [Google Books](http://books.google.com/books?id=0eieUFsSxPMC&pg=PAfrontcover)\]  
     Covers many course topics. Problems from this book will be assigned frequently.

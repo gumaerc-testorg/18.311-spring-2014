@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides lecture notes from previous years, and touch upon
+  many of the topics introduced in this course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -23,7 +25,7 @@ LECTURE TOPICS AND NOTES
 {{< tdopen >}}
 
 
-[Conservation Laws in Continuum Modeling (PDF)]({{< baseurl >}}/resources/mit18_311s14_conservatnlaw)
+{{% resource_link e5c9277c-b1d1-5181-653a-c74c6db170dd "Conservation Laws in Continuum Modeling (PDF)" %}}
 
 1\. Introduction
 
@@ -43,7 +45,7 @@ LECTURE TOPICS AND NOTES
 {{< tdopen >}}
 
 
-[Stability of Numerical Schemes for PDEs (PDF)]({{< baseurl >}}/resources/mit18_311s14_numschemestab)
+{{% resource_link 8940d66d-522b-15a2-edfe-b08804cf6a9b "Stability of Numerical Schemes for PDEs (PDF)" %}}
 
 1\. Naive Scheme for the Wave Equation
 
@@ -59,7 +61,7 @@ LECTURE TOPICS AND NOTES
 {{< tdopen >}}
 
 
-[Simplest Car Following Traffic Flow Model (PDF)]({{< baseurl >}}/resources/mit18_311s14_cfsimplemodel)
+{{% resource_link 823b8f2a-65d6-3942-ed81-4b0fd1de908c "Simplest Car Following Traffic Flow Model (PDF)" %}}
 
 1\. The Model; Nondimensionalization
 
@@ -77,7 +79,7 @@ LECTURE TOPICS AND NOTES
 {{< tdopen >}}
 
 
-[Discrete to Continuum Modeling (PDF)]({{< baseurl >}}/resources/mit18_311s14_discreteto)
+{{% resource_link 6c889624-a9bc-707f-fa54-4fb4b5fd41a5 "Discrete to Continuum Modeling (PDF)" %}}
 
 1\. Introduction
 
@@ -93,7 +95,7 @@ LECTURE TOPICS AND NOTES
 {{< tdopen >}}
 
 
-[Separation of Variables (PDF)]({{< baseurl >}}/resources/mit18_311s14_separation)
+{{% resource_link ea2b7819-6b89-9422-a81f-862b72968012 "Separation of Variables (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -103,7 +105,7 @@ LECTURE TOPICS AND NOTES
 {{< tdopen >}}
 
 
-[Various Lecture Notes (PDF)]({{< baseurl >}}/resources/mit18_311s14_varlecnotes)
+{{% resource_link 388f429f-3e81-cfba-f4ba-272f343dc70b "Various Lecture Notes (PDF)" %}}
 
 1\. Convergence of Numerical Schemes
 
