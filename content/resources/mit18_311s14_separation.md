@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding Exercises in Partial Differentiation
   and Linear PDE.
 file: /courses/18-311-principles-of-applied-mathematics-spring-2014/ea2b78196b899422a81f862b72968012_MIT18_311S14_Separation.pdf
+file_size: 288131
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

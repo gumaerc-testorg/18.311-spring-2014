@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding principles of applied mathematics,problem
   set 2.
 file: /courses/18-311-principles-of-applied-mathematics-spring-2014/4e2bdbbc47e9dc291942331219b1ef88_MIT18_311S14_ProblemSet2.pdf
+file_size: 198695
 file_type: application/pdf
 learning_resource_types:
 - Assignments

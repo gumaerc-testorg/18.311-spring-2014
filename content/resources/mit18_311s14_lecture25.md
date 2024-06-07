@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding lecture summary
   25.
 file: /courses/18-311-principles-of-applied-mathematics-spring-2014/e7e407e8ec693fb386da60cc3346793a_MIT18_311S14_Lecture25.pdf
+file_size: 75172
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
