@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding lecture summary
   10.
-file: /courses/18-311-principles-of-applied-mathematics-spring-2014/3e6af8f9f3249e8a44675db4b0d5227f_MIT18_311S14_Lecture10.pdf
+file: /ol-ocw-studio-app/courses/18-311-principles-of-applied-mathematics-spring-2014/3e6af8f9f3249e8a44675db4b0d5227f_MIT18_311S14_Lecture10.pdf
 file_size: 78003
 file_type: application/pdf
 learning_resource_types:
