@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding principles of applied mathematics,problem
   set 4.
-file: /ol-ocw-studio-app/courses/18-311-principles-of-applied-mathematics-spring-2014/835cb050a6c39028a6668b4a527fd35f_MIT18_311S14_ProblemSet4.pdf
+file: /courses/18-311-principles-of-applied-mathematics-spring-2014/835cb050a6c39028a6668b4a527fd35f_MIT18_311S14_ProblemSet4.pdf
 file_size: 207586
 file_type: application/pdf
 learning_resource_types:
