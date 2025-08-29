@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-311-principles-of-applied-mathematics-spring-2014/5085745983cce637d47c097b32441970_MIT18_311S14_Lecture36to39.pdf
+file: /ol-ocw-studio-app/courses/18-311-principles-of-applied-mathematics-spring-2014/5085745983cce637d47c097b32441970_MIT18_311S14_Lecture36to39.pdf
 file_size: 596053
 file_type: application/pdf
 learning_resource_types:

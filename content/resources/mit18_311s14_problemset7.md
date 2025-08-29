@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding principles of applied mathematics,problem
   set 7.
-file: /courses/18-311-principles-of-applied-mathematics-spring-2014/e84f6cba28bb65ae1592281dcee2747e_MIT18_311S14_ProblemSet7.pdf
+file: /ol-ocw-studio-app/courses/18-311-principles-of-applied-mathematics-spring-2014/e84f6cba28bb65ae1592281dcee2747e_MIT18_311S14_ProblemSet7.pdf
 file_size: 509714
 file_type: application/pdf
 learning_resource_types:
