@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding Discrete to Continuum Modeling.
-file: /ol-ocw-studio-app/courses/18-311-principles-of-applied-mathematics-spring-2014/6c889624a9bc707ffa544fb4b5fd41a5_MIT18_311S14_DiscreteTo.pdf
+file: /courses/18-311-principles-of-applied-mathematics-spring-2014/6c889624a9bc707ffa544fb4b5fd41a5_MIT18_311S14_DiscreteTo.pdf
 file_size: 620683
 file_type: application/pdf
 learning_resource_types:
