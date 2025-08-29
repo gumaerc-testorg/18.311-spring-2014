@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "\r\nThis is the special file regarding matlab Scripts for problem set."
-file: /courses/18-311-principles-of-applied-mathematics-spring-2014/4c72148e7b4aaafbcb6241bdcd16da94_MatLabScriptsForProblemSet08.zip
+file: /ol-ocw-studio-app/courses/18-311-principles-of-applied-mathematics-spring-2014/4c72148e7b4aaafbcb6241bdcd16da94_MatLabScriptsForProblemSet08.zip
 file_size: 88017
 file_type: application/zip
 learning_resource_types:
