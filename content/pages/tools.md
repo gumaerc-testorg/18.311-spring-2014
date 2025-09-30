@@ -21,4 +21,4 @@ After you expand the download, you will get a folder with:
 2.  A special MATLAB script needed for the installation.
 3.  A folder with the toolkit scripts.
 
-_Note to OCW Users:_ MIT OpenCourseWare does not provide student access or discounts for [MATLAB software](http://www.mathworks.com/products/matlab/). It can be purchased from The MathWorks{{< sup "®" >}}. For more information about [MATLAB Pricing and Licensing](http://www.mathworks.com/products/matlab/pricing_licensing.html?s_iid=ML2012_pricing_a#commercial_use), contact [The MathWorks](http://www.mathworks.com/index.html) directly.
+_Note to OCW Users:_ MIT OpenCourseWare does not provide student access or discounts for {{% resource_link "7cd13f00-76ef-41eb-86a1-2f786fd751ad" "MATLAB software" %}}. It can be purchased from The MathWorks{{< sup "®" >}}. For more information about {{% resource_link "bc47b6e8-55a9-4453-bdc0-8cf709c924e1" "MATLAB Pricing and Licensing" %}}, contact {{% resource_link "f1fce35b-eb7e-4dd2-9585-0b63e1e097c2" "The MathWorks" %}} directly.
