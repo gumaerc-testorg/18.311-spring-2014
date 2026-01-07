@@ -29,16 +29,16 @@ Textbooks
 
 The material in the course is spread out over several books, listed here. Class notes for some topics are also available in the {{% resource_link f647c6dc-2054-d43f-a74c-bc3cc8cb949b "Lecture Notes" %}}.
 
-*   Haberman, Richard. _Mathematical Models: Mechanical Vibrations, Population Dynamics, and Traffic Flow_. SIAM, 1998. ISBN: 9780898714081. \[Preview with {{% resource_link "e02fb28d-59e1-4777-8693-0e1b0b18d21c" "Google Books" %}}\]  
+*   Haberman, Richard. _Mathematical Models: Mechanical Vibrations, Population Dynamics, and Traffic Flow_. SIAM, 1998. ISBN: 9780898714081. \[Preview with [Google Books](http://books.google.com/books?id=0eieUFsSxPMC&pg=PAfrontcover)\]  
     Covers many course topics. Problems from this book will be assigned frequently.
-*   Lin, C. C., and Lee A. Segel. _Mathematics Applied to Deterministic Problems_. SIAM, 1988. ISBN: 9780898712292. \[Preview with {{% resource_link "d0928661-b688-4e6f-b578-a4ad4c0bb153" "Google Books" %}}\]  
+*   Lin, C. C., and Lee A. Segel. _Mathematics Applied to Deterministic Problems_. SIAM, 1988. ISBN: 9780898712292. \[Preview with [Google Books](http://books.google.com/books?id=QYFfZ1Lx4IwC&pg=PAfrontcover)\]  
     An extremely good book to have.
 *   Wan, Frederic Y. M. _Mathematical Models and Their Analysis_. Harper & Row, 1989. ISBN: 9780060469023.  
     Problems from this book may be assigned occasionally.
-*   Logan, J. David. _An Introduction to Nonlinear Partial Differential Equations_. Wiley-Interscience, 2008. ISBN: 9780470225950. \[Preview with {{% resource_link "7a15a673-5744-4615-8946-d8215a80c77b" "Google Books" %}}\]  
+*   Logan, J. David. _An Introduction to Nonlinear Partial Differential Equations_. Wiley-Interscience, 2008. ISBN: 9780470225950. \[Preview with [Google Books](http://books.google.com/books?id=Zk4se2vNw2YC&pg=PAfrontcover)\]  
     This book covers all the partial differential equation theory that we will see in this course – part I below.
 *   Richtmyer, Robert D., and K. W. Morton. _Difference Methods for Initial-Value Problems_. 2nd ed. Interscience Publishers, 1967. ISBN: 9780470720400.
-*   Fowler, A. C. _Mathematical Models in the Applied Sciences_. Cambridge University Press, 1997. ISBN: 9780521467032. \[Preview with {{% resource_link "5c4c3786-2da0-4543-98bb-dc97d8cade0d" "Google Books" %}}\]
+*   Fowler, A. C. _Mathematical Models in the Applied Sciences_. Cambridge University Press, 1997. ISBN: 9780521467032. \[Preview with [Google Books](http://books.google.com/books?id=2KeYPU78AsMC&pg=PAfrontcover)\]
 *   Stoker, J. J. _Nonlinear Vibrations in Mechanical and Electrical Systems_. Interscience Publishers, 1950.
 *   Whitham, G. B. _Linear and Nonlinear Waves (Pure and Applied Mathematics: A Wiley-Interscience Series of Texts, Monographs and Tracts)_. Wiley-Interscience, 1974. ISBN: 9780471940906.
 *   Haberman, Richard. _Applied Partial Differential Equations: With Fourier Series and Boundary Value Problems_. 4th ed. Prentice Hall, 2003. ISBN: 9780130652430.
